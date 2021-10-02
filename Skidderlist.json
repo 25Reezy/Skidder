@@ -1,20 +1,32 @@
 {
     "Skidds": [
         {
-            "Name":"Vyro#4500",
-            "DiscordID": "843236323476504576"
-        },
-        {
-            "Name": "Flaxyy#9679",
-            "DiscordID":"864832759700389909"
-        },
-        {
-            "Name": "Awake#4603",
-            "DiscordID": "522111275078254596"
-        },
-	{
-            "Name": "Verstecki#0550",
-            "DiscordID": "875062038462857327"
-        }
+            "uid": "522111275078254596",
+            "tag": "Awake#4603",
+            "avatar": "c4f3bfc4d0afec7be7b7835cb0a26b71",
+            "bot": false,
+            "created_at": "2018-12-11T18:03:48.337Z"
+          },
+          {
+            "uid": "875062038462857327",
+            "tag": "Verstecki#0550",
+            "avatar": "9ac9c4dc40c1be51e2ac7807df24bec9",
+            "bot": false,
+            "created_at": "2021-08-11T17:04:07.836Z"
+          },
+          {
+            "uid": "843236323476504576",
+            "tag": "Vyro#4500",
+            "avatar": "01f0382e1ba62b92b243bb589b940e2a",
+            "bot": false,
+            "created_at": "2021-05-15T21:20:06.090Z"
+          },
+          {
+            "uid": "864832759700389909",
+            "tag": "Flaxyy#9679",
+            "avatar": "ca068615774488f15c448d0329d38d8c",
+            "bot": false,
+            "created_at": "2021-07-14T11:36:37.728Z"
+          }
     ]
 }
